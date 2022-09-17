@@ -1,0 +1,208 @@
+{
+  "users": [
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$z6Fa244tsq4ePap29ILTBe6e2KMArX8W7IHSY1uZkzn5yXSdE5Y1e",
+      "name": "Test1",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-2",
+      "id": 2
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-4",
+      "id": 4
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-5",
+      "id": 5
+    },
+    {
+      "email": "test6@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-6",
+      "id": 6
+    },
+    {
+      "email": "test7@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-7",
+      "id": 7
+    },
+    {
+      "email": "test8@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-8",
+      "id": 8
+    },
+    {
+      "email": "test9@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-9",
+      "id": 9
+    },
+    {
+      "email": "test10@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-10",
+      "id": 10
+    },
+    {
+      "email": "test11@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-11",
+      "id": 11
+    },
+    {
+      "email": "test12@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-12",
+      "id": 12
+    },
+    {
+      "email": "test13@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-13",
+      "id": 13
+    },
+    {
+      "email": "test14@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-14",
+      "id": 14
+    },
+    {
+      "email": "test15@gmail.com",
+      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+      "name": "Test-15",
+      "id": 15
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "test1@gmail.com-test2@gmail.com",
+      "users": [
+        {
+          "email": "test1@gmail.com",
+          "name": "Test1",
+          "id": 1
+        },
+        {
+          "email": "test2@gmail.com",
+          "name": "Test-2",
+          "id": 2
+        }
+      ],
+      "message": "good and you",
+      "timestamp": 1663377584537,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test1@gmail.com",
+        "name": "Test1",
+        "id": 1
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+        "name": "Test-2",
+        "id": 2
+      },
+      "message": "Test-2",
+      "timestamp": 1663377112554,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test1@gmail.com",
+        "name": "Test1",
+        "id": 1
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
+        "name": "Test-2",
+        "id": 2
+      },
+      "message": "test-2",
+      "timestamp": 1663377172477,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "Test-2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "test1@gmail.com",
+        "name": "Test1",
+        "id": 1
+      },
+      "message": "how are you",
+      "timestamp": 1663377255949,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "Test-2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "test1@gmail.com",
+        "name": "Test1",
+        "id": 1
+      },
+      "message": "hello",
+      "timestamp": 1663377269093,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test1@gmail.com",
+        "name": "Test1",
+        "id": 1
+      },
+      "receiver": {
+        "email": "test2@gmail.com",
+        "name": "Test-2",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1663377294861,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "test2@gmail.com",
+        "name": "Test-2",
+        "id": 2
+      },
+      "receiver": {
+        "email": "test1@gmail.com",
+        "name": "Test1",
+        "id": 1
+      },
+      "message": "whatsup",
+      "timestamp": 1663377304117,
+      "id": 6
+    }
+  ]
+}
