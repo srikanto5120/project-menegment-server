@@ -31,85 +31,19 @@
       "id": 5
     },
     {
-      "email": "test6@gmail.com",
+      "email": "srikanto@gmail.com",
       "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-6",
+      "name": "Test-5",
       "id": 6
-    },
-    {
-      "email": "test7@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-7",
-      "id": 7
-    },
-    {
-      "email": "test8@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-8",
-      "id": 8
-    },
-    {
-      "email": "test9@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-9",
-      "id": 9
-    },
-    {
-      "email": "test10@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-10",
-      "id": 10
-    },
-    {
-      "email": "test11@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-11",
-      "id": 11
-    },
-    {
-      "email": "test12@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-12",
-      "id": 12
-    },
-    {
-      "email": "test13@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-13",
-      "id": 13
-    },
-    {
-      "email": "test14@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-14",
-      "id": 14
-    },
-    {
-      "email": "test15@gmail.com",
-      "password": "$2a$10$7TRQctdKe84FmaBFWuVzOOLtkO2FQovsW2vcuCmoDpt4uuVt.YP6i",
-      "name": "Test-15",
-      "id": 15
-    },
-    {
-      "email": "shreekantaray@gmail.com",
-      "password": "$2a$10$0BEgea3vLkc5V3WWYCO6Kuq4NRANJpJe/7gJ3XUTqiMPU6UVuQepK",
-      "name": "kanto",
-      "id": 16
-    },
-    {
-      "email": "srikant0691@gmail.com",
-      "password": "$2a$10$GiZfrU07EYZD4cKtBSN/3Oq7ENLUQ/qPvDPebaGFXt6kWKbPx9FWO",
-      "name": "srikanto",
-      "id": 17
     }
   ],
   "teams": [
     {
       "participant": [
-        "shreekantaray@gmail.com",
+        "srikanto@gmail.com",
         "test1@gmail.com"
       ],
-      "author": "shreekantaray@gmail.com",
+      "author": "srikanto@gmail.com",
       "status": "backlog",
       "description": "A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process or the result of that plan or specification in the form of a prototype",
       "color": "#cf0707",
@@ -120,10 +54,10 @@
     },
     {
       "participant": [
-        "shreekantaray@gmail.com",
+        "srikanto@gmail.com",
         "test15@gmail.com"
       ],
-      "author": "shreekantaray@gmail.com",
+      "author": "srikanto@gmail.com",
       "status": "done",
       "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet",
       "color": "#55e916",
@@ -133,10 +67,10 @@
     },
     {
       "participant": [
-        "shreekantaray@gmail.com",
+        "srikanto@gmail.com",
         "test15@gmail.com"
       ],
-      "author": "shreekantaray@gmail.com",
+      "author": "srikanto@gmail.com",
       "status": "doing",
       "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet",
       "color": "#55e915",
@@ -146,23 +80,24 @@
     },
     {
       "participant": [
-        "shreekantaray@gmail.com",
+        "srikanto@gmail.com",
         "test15@gmail.com"
       ],
-      "author": "shreekantaray@gmail.com",
+      "author": "srikanto@gmail.com",
       "status": "ready",
       "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet",
       "color": "#55e816",
       "name": "Web development",
       "date": "9/23/2022, 1:07:59 AM",
-      "id": 4
+      "id": 4,
+      "index": 0
     },
     {
       "participant": [
-        "shreekantaray@gmail.com",
+        "srikanto@gmail.com",
         "test15@gmail.com"
       ],
-      "author": "shreekantaray@gmail.com",
+      "author": "srikanto@gmail.com",
       "status": "review",
       "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet",
       "color": "#55e516",
@@ -171,15 +106,18 @@
       "id": 6
     },
     {
-      "participant": "test1@gmail.com",
-      "author": "shreekantaray@gmail.com",
+      "participant": [
+        "srikanto@gmail.com",
+        "test1@gmail.com"
+      ],
+      "author": "srikanto@gmail.com",
       "status": "backlog",
-      "description": "jhjhjhjhkhjutyut",
+      "description": "Python is a high-level, general-purpose programming language. Its design philosophy   ",
       "color": "#6a065d",
-      "name": "test1@gmail.com",
+      "name": "Python",
       "date": "9/23/2022, 2:56:51 AM",
       "id": 7,
-      "email": "shreekantaray@gmail.com",
+      "email": "srikanto@gmail.com",
       "index": 0
     },
     {
@@ -190,7 +128,7 @@
       "status": "ready",
       "description": "thech is asowme ",
       "color": "#ba0d0d",
-      "name": "tech",
+      "name": "Tech",
       "date": "9/25/2022, 1:13:27 PM",
       "id": 8,
       "index": 0
