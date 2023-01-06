@@ -44,7 +44,7 @@
         "test1@gmail.com"
       ],
       "author": "srikanto@gmail.com",
-      "status": "backlog",
+      "status": "review",
       "description": "A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process or the result of that plan or specification in the form of a prototype",
       "color": "#cf0707",
       "name": "design",
@@ -76,7 +76,8 @@
       "color": "#55e915",
       "name": "Web development",
       "date": "9/23/2022, 1:07:59 AM",
-      "id": 3
+      "id": 3,
+      "index": 1
     },
     {
       "participant": [
@@ -84,7 +85,7 @@
         "test15@gmail.com"
       ],
       "author": "srikanto@gmail.com",
-      "status": "ready",
+      "status": "backlog",
       "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet",
       "color": "#55e816",
       "name": "Web development",
@@ -98,12 +99,13 @@
         "test15@gmail.com"
       ],
       "author": "srikanto@gmail.com",
-      "status": "review",
+      "status": "blocked",
       "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet",
       "color": "#55e516",
       "name": "Web development",
       "date": "9/23/2022, 1:07:59 AM",
-      "id": 6
+      "id": 6,
+      "index": 0
     },
     {
       "participant": [
@@ -111,14 +113,14 @@
         "test1@gmail.com"
       ],
       "author": "srikanto@gmail.com",
-      "status": "backlog",
+      "status": "ready",
       "description": "Python is a high-level, general-purpose programming language. Its design philosophy   ",
       "color": "#6a065d",
       "name": "Python",
       "date": "9/23/2022, 2:56:51 AM",
       "id": 7,
       "email": "srikanto@gmail.com",
-      "index": 0
+      "index": 1
     },
     {
       "participant": [
